@@ -1,0 +1,14 @@
+body{
+    background-color:chartreuse;
+    color: black;
+    font-weight: bold;
+}
+
+#next
+{
+    background-color:crimson;
+    color: white;
+  border-radius:20px;
+  padding: 10px;
+  border-color: black;
+}
